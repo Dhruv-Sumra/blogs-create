@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+.component-size{
+  @apply px-5 sm:px-10 md:px-15 xl:px-25;
+}
+
+.dark-bg{
+  @apply bg-purple-500 text-purple-950
+}
+
+.light-bg{
+  @apply bg-purple-100
+}
+
+.dark-text{
+  @apply text-purple-950
+}
+
+.light-text{
+  @apply text-purple-100
+}
