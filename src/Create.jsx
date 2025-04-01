@@ -16,7 +16,7 @@ const Create = ({addBlog}) => {
     }
 
   return (
-    <div className='light-bg component-size min-h-screen dark-text'>
+    <div className='light-bg component-size min-h-screen dark-text pt-5'>
         <h2 className='text-3xl font-semibold'>Add new blog</h2>
 
         <form className='space-y-1 flex flex-col mt-10'>
